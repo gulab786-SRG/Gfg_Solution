@@ -1,5 +1,6 @@
 package gfg;
 
+// ASKED BY WALMART AND MICROSOFT 
 public class check_for_balanced_tree {
     class Node {
         Node left;
